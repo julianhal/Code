@@ -1,2 +1,2 @@
 # Code
-Forkjellig code og prosjekter
+Forskjellig code og prosjekter
